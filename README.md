@@ -1,5 +1,7 @@
 # ERC20 Interactor
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 A simple, developer-friendly **web interface** to interact with any ERC-20 smart contract.  
 Built with **TypeScript** + **Rust (Stylus)**, this project is ideal for testing, demos, hackathons, and educational purposes.
 
